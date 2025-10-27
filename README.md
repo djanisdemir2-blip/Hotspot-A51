@@ -43,3 +43,4 @@
   <a href="#">J’ai lu et j’accepte</a>
 </body>
 </html>
+redirection page WiFi
